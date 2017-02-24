@@ -1,0 +1,6 @@
+framework module Pods_URITemplatePlayground {
+  umbrella header "Pods-URITemplatePlayground-umbrella.h"
+
+  export *
+  module * { export * }
+}
